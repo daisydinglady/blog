@@ -1,2 +1,2 @@
 # blog
-MyBlog
+This is my blog to record technology
